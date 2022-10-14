@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main:This is the where the compiler runs the code from
+ *main-This is the where the compiler runs the code from the compiler takes it.
  *
  *Return:Gives feedback to the std output
  */
